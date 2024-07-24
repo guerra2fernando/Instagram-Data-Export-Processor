@@ -1,0 +1,13 @@
+html_files:
+  igtv_videos.html: igtv
+  archived_posts.html: archived_posts
+  recently_deleted_content.html: recently_deleted
+  reels.html: reels
+  posts_1.html: posts
+  profile_photos.html: profile
+  stories.html: stories
+
+content_dir: your_instagram_activity/content
+media_dir: media
+
+log_level: INFO
