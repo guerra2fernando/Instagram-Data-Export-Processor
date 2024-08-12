@@ -14,8 +14,8 @@ This script processes Instagram data exports, updating file metadata and EXIF da
 
 ## Installation
 1. Clone this repository:
-git clone https://github.com/yourusername/instagram-data-processor.git
-cd instagram-data-processor
+git clone [https://github.com/guerra2fernando/Instagram-Data-Export-Processor.git](https://github.com/guerra2fernando/Instagram-Data-Export-Processor.git)
+cd Instagram-Data-Export-Processor
 
 2. Create a virtual environment and activate it:
 python -m venv venv
